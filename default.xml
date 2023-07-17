@@ -9,7 +9,7 @@
     <default sync-j="4" />
 
     <project path="."
-             name="sebastian.slomka/getting-started-with-yocto-sdk-and-esdk"
+             name="sebastian-slomka/getting-started-with-yocto-sdk-and-esdk"
              remote="github"
              revision="master"/>
 
