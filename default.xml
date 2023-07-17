@@ -4,7 +4,7 @@
             fetch="https://github.com/"/>
 
     <remote name="yoctoproject"
-            fetch="git://git.yoctoproject.org/"/>
+            fetch="https://git.yoctoproject.org/"/>
 
     <default sync-j="4" />
 
